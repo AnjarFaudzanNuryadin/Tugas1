@@ -1,0 +1,68 @@
+body {
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid 3px black;
+
+}
+
+.container {
+    border-bottom: solid 2px black;
+    text-align: center;
+
+}
+
+.tombol a {
+    border: solid 2px black;
+    margin: -3px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+
+}
+
+.tombol a:hover {
+    background-color: blue;
+
+}
+
+.content {
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+
+}
+
+.content img {
+    width: 250px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 20px;
+
+}
+
+.content table {
+    margin-bottom: 150px;
+    margin-top: 50px;
+
+}
+
+.foto img {
+    width: 200px;
+
+}
+
+.foto h3 {
+    text-align: center;
+
+}
+
+.content form {
+    margin-left: 500px;
+
+}
+
+.content form p input {
+    margin-left: 20px;
+
+}
